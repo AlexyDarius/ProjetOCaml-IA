@@ -1,0 +1,3 @@
+Benchmark file
+
+./benchmark/grid8x8x11.txt ; 0.282030

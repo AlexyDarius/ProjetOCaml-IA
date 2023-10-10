@@ -1,0 +1,12 @@
+Fichier pour noter tous les problèmes rencontrés au cours du projet mais aussi la manière dont on s'y est pris, pour le rapport:
+
+1. Première étape: lecture de la grille et constitution du dictionnaire :
+        Problème de stackoverflow en utilisant la fonction de calcul du mot de longueur max de manière récursive --> utilisation de fold
+
+2. Deuxième étape: constitution des contraintes:
+        Comprendre le fonctionnement des regexp 
+        Matcher les contraintes avec l'ensemble des mots possibles 
+
+3: Troisième étape: l'algorithme de backtrack:
+        Compréhension de l'algorithme 
+        Définition des fonctions utiles au fonctionnement de l'algorithme
